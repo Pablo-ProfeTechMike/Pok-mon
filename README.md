@@ -1,15 +1,12 @@
 # [Cartas de Pokémon](https://pablo-profetechmike.github.io/Portafolio---Web-Ingenieros-/)
 
-[![Professional Card](https://i.postimg.cc/tCKwHVtq/pokemon.png)](https://pablo-profetechmike.github.io/Portafolio---Web-Ingenieros-/)
+[![Professional Card](https://i.postimg.cc/tCKwHVtq/pokemon.png)](https://pablo-profetechmike.github.io/Pok-mon/)
 
 ## 📜 Descripción 📜
-🛜« git commit -m "Lanza tu carrera profesional" »
-💻Creamos tu portafolio web. Diseñado por y para ingenieros.
-🛜« Del localhost a producción. Diseñamos tu portafolio profesional. »
-💻Deja de mostrar capturas de pantalla. Muestra tu código en vivo.
-🛜« Tu portafolio web: El "Hello World" de tu éxito profesional. »
-💻Nosotros nos encargamos de la interfaz; tú del backend de tu carrera.
-
+🛜« git commit -m "Cartas de Pokemon" »
+Comunes y poco comunes
+Todas las cartas reciben una rotación 3D con CSS basada en la posición del cursor.
+Las cartas básicas no holográficas por defecto simplemente aplican un efecto de destello/reflejo que sigue el movimiento del ratón.
 ## 🤗 Redes sociales 🤗
 - 📺 [YouTube](https://www.youtube.com/@bigherreralab) 📺
 - 🐙 [GitHub](https://github.com/Pablo-ProfeTechMike) 🐙
